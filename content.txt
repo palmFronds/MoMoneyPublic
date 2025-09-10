@@ -1,0 +1,1065 @@
+LESSON 1 - WHAT IS A STOCK? (OWNERSHIP 101)
+Lesson 1.1: STOCKS
+
+A stock represents ownership in a company. When you buy a stock, you’re buying a piece of that business and becoming one of its many owners.
+
+Think of a company as a whole pizza — owning a stock is like holding one slice of that pizza. It means you now own a part of the company and share in both the risks and the rewards.
+
+
+Lesson 1.2: SHARES
+
+If a stock means you own part of a company, then a share is one specific unit of that ownership. It tells you exactly how much of the company you own. 
+
+
+Think of a stock as a whole bar of chocolate — owning a share is like owning one square of that bar. If you own 3 squares, you own 3 shares. The more squares you have, the more of the company you own.
+
+
+Lesson 1.3: There are only a finite amount of shares that company can have so their prices are based on Supply and Demand
+
+
+Quiz 1.4) STOCKS
+
+What does owning a stock mean?
+A) You’re lending money to the company
+ B) You’re working for the company
+ C) You own a piece of the company
+ D) You control the entire company
+Correct Answer: C
+Explanation:
+A stock represents ownership in a company. When you buy a stock, you become a partial owner.
+
+Quiz 1.5) SHARES
+What is a share?
+A) A piece of company debt
+ B) A single unit of ownership in a company
+ C) A coupon for buying company products
+ D) A ticket to company meetings
+Correct Answer: B
+Explanation:
+A share is one specific unit of ownership in a company. It tells you how much of the company you own.
+Quiz 1.6)
+Why do stock prices change?
+A) Because the company changes its name
+ B) Because there is a limited number of shares and their prices depend on supply and demand
+ C) Because employees decide the price daily
+ D) Because the government sets stock prices
+Correct Answer: B
+Lesson 1.7: COMPANY
+
+A company is an organized business that sells products or services to make money. It can have employees, managers, and owners, all working together to run operations and grow the business over time. 
+
+
+Lesson 1.8) When you buy a stock, you become a partial owner of the company — you own a piece of its future
+
+
+Lesson 1.9) Owning stock means you benefit when the company grows, but you also share in the risk if it fails
+
+Quiz 1.10)
+What happens when you buy a stock?
+A) You become a loan provider to the company
+ B) You become a partial owner and share in its future growth and risks
+ C) You get a job at the company
+ D) You get a free product from the company
+Correct Answer: B
+Explanation:
+Buying a stock means you become a partial owner of the company, benefiting if it grows and sharing the risk if it fails.
+
+
+
+LESSON 2 - THE JOURNEY TO THE PUBLIC
+Lesson 2.1) IPO
+
+
+An IPO, or Initial Public Offering, is when a private company sells its shares to the public for the first time. It’s how a business raises money by letting regular people buy a piece of the company.
+
+
+Imagine a bakery that’s always been private, baking cakes just for family and friends. One day, it opens its doors to the public for the first time. A long line forms outside, and people can now buy slices of its cake — each slice representing a share in the bakery. That grand opening is the IPO.
+
+
+Lesson 2.2) Public Company
+
+
+A public company is a business whose shares are available for anyone to buy on the stock market. This means the general public can become part-owners of the company by purchasing its stock.
+
+
+Lesson 2.3) Private Company
+
+A private company is a business that is owned by a small group of people, like founders, family, or private investors. Its shares are not available to the public on the stock market.
+
+Quiz 2.4) IPO 
+What is an IPO?
+A) When a company closes down
+ B) When a private company sells shares to the public for the first time
+ C) When a company buys another company
+ D) When employees get bonuses
+Correct Answer: B
+Explanation:
+ An IPO (Initial Public Offering) is when a private company sells shares to the public for the first time.
+Quiz 2.5) 
+What is a public company?
+A) A company owned by a small group and not traded on the stock market
+ B) A company whose shares anyone can buy on the stock market
+ C) A company that only sells products to employees
+ D) A company that has no shareholders
+Correct Answer: B
+Explanation:
+ A public company is one whose shares are available for anyone to buy on the stock market.
+Quiz 2.6)
+What is a private company?
+A) A company owned by a small group and whose shares are not traded publicly
+ B) A company that sells shares on the stock market
+ C) A company owned by the government
+ D) A company that sells products only online
+Correct Answer: A
+Explanation:
+ A private company is owned by a small group like founders or family, and its shares are not available on the stock market.
+
+Lesson 2.7)  IPOs are a company’s way of raising money from the public in exchange for partial ownership.
+
+
+Lesson 2.8) Once a company goes public, its shares are traded freely in the stock market, and its value changes every second.
+
+Quiz 2.9) 
+Question 3:
+ Why do companies do IPOs?
+A) To close the company
+ B) To raise money from the public by selling partial ownership
+ C) To fire employees
+ D) To buy other companies
+Correct Answer: B
+Explanation:
+ IPOs let companies raise money from the public by selling shares, giving partial ownership in exchange.
+
+
+LESSON 3  - PROFITS AND VALUE 
+Lesson 3.1) Dividend
+
+
+A dividend is money a company pays to its shareholders from its profits. It’s a way for the company to share its earnings with the people who own its stock.
+
+Imagine a company as a big tree, and your share is like a branch on that tree. When the tree grows fruit, an apple grows on your branch — that apple is your dividend. The more branches (shares) you have, the more apples (dividends) you receive. Just like an apple takes time to grow on a tree, dividends are paid out over time — usually every 3 months.
+
+Lesson 3.2) Dividend Yield is the percentage return you earn from dividends relative to stock price 
+
+Dividend Yield = Annual Dividend per share/ Stock price X 100 
+
+Quiz 3.3) Dividends
+What is a dividend?
+A) Money a company pays to employees
+ B) Money a company pays to shareholders from its profits
+ C) The price of a stock
+ D) A loan the company takes
+Correct Answer: B
+Explanation:
+ A dividend is money a company pays to its shareholders from its profits as a way to share earnings.
+
+Quiz 3.4)
+If a stock’s annual dividend per share is $2 and the stock price is $50, what is the dividend yield?
+A) 2%
+ B) 4%
+ C) 25%
+ D) 50%
+Correct Answer: B
+Explanation:
+ Dividend Yield = (2 ÷ 50) × 100 = 4%
+
+Lesson 3.5) Capital Gains
+
+
+Capital gains are the profit you make when you sell something — like a stock — for more than you paid for it. It's the difference between the buying price and the selling price.
+
+Quiz 3.6) 
+
+What are capital gains?
+A) Money lost when you sell a stock
+ B) Profit made when you sell a stock for more than you paid
+ C) Dividends paid regularly
+ D) The price you pay to buy a stock
+Correct Answer: B
+Explanation:
+ Capital gains are the profit you make by selling a stock at a higher price than what you paid.
+
+
+
+Lesson 3.7) You can earn from stocks in two ways: regular dividend income or by selling them at a higher price
+
+
+Lesson 3.8) Not all companies pay dividends — fast-growing ones often reinvest profits instead.
+
+
+Lesson 3.9) The value of a stock depends on what investors believe the company is worth now and in the future.
+
+Quiz 3.10) 
+Which of the following is true about earning from stocks?
+A) You only earn money if the stock pays dividends
+ B) You can earn from dividends or by selling the stock at a higher price
+ C) All companies pay dividends regularly
+ D) Stock value never changes
+Correct Answer: B
+Explanation:
+ You can earn from stocks by receiving dividends or by selling them for a higher price than you bought.
+
+
+LESSON 4  - MEASURING COMPANIES
+Lesson 4.1) Market Cap
+
+Market cap, or market capitalization, is the total value of a company based on its stock price. You calculate it by multiplying the price of one share by the total number of shares the company has.
+
+Imagine a pizza labeled 'Company' that’s cut into 5 slices. Each slice (share) is selling for $10. If you add up the value of all the slices — 5 slices × $10 — the whole pizza is worth $50. That total value is the company’s market cap.
+
+
+Lesson 4.2)  A large-cap company has a high market cap and is usually more stable; small-cap stocks may grow faster but are riskier.
+
+
+Quiz 4.3)
+What is market capitalization (market cap)?
+A) The total number of shares a company has
+ B) The total value of a company’s shares, calculated by multiplying the share price by the number of shares
+ C) The price of one share
+ D) The company’s yearly profit
+Correct Answer: B
+Explanation:
+ Market cap is the total value of a company, found by multiplying the price of one share by the total number of shares.
+
+Quiz 4.4)
+What is a key difference between large-cap and small-cap companies?
+A) Large-cap companies are more stable, while small-cap ones may grow faster but are riskier
+ B) Small-cap companies always pay higher dividends
+ C) Large-cap companies are newer and riskier
+ D) Small-cap companies are owned by the government
+Correct Answer: A
+Explanation:
+ Large-cap companies tend to be more stable, while small-cap companies can grow faster but carry more risk.
+
+Lesson 4.5) Market cap tells you how “big” a company is in dollar terms — it’s like comparing an ant to an elephant.
+
+
+Lesson 4.6) Bond
+
+A bond is like a loan you give to a company or government. In return, they promise to pay you interest regularly and give back the full amount on a set date.
+
+
+Lesson 4.7) Securities
+
+Securities are financial assets you can invest in, like stocks or bonds. They represent either ownership in a company or a loan you’ve given to a company or government.
+
+
+Quiz 4.8) 
+What is a bond?
+A) A loan you give to a company or government in exchange for interest
+ B) A type of stock that doesn’t pay dividends
+ C) A form of company ownership
+ D) A financial agreement where you earn interest and get your money back later
+Correct Answer: D
+Explanation:
+ A bond is like lending money — the company or government pays you interest and returns your money on a set date.
+
+Quiz 4.9) 
+Which of the following is considered a security?
+A) Stocks and bonds
+ B) Company profits
+ C) Cryptocurrency wallets
+ D) Real estate or gold
+Correct Answer: A
+Explanation:
+ Securities are tradable financial assets like stocks or bonds, representing either ownership or a loan.
+
+
+
+
+
+
+LESSON 5  - THE MARKETPLACE
+Lesson 5.1) Stock Exchange
+
+A stock exchange is a place where people can buy and sell shares of companies. It’s like a marketplace that helps people trade stocks safely and fairly
+
+
+Lesson 5.2) Ticker Symbol 
+
+A ticker symbol is a short code made up of letters that represents a company’s stock on the stock exchange. It helps you quickly find and identify a stock
+Apple - AAPL ; Tesla - TSLA
+
+Quiz 5.3)
+What is a stock exchange?
+A) A place where people can buy and sell shares of companies safely and fairly
+ B) A company that creates new stocks
+ C) A storage place for stock certificates
+ D) A website for company employees only
+Correct Answer: A
+Explanation:
+ A stock exchange is like a marketplace where people can trade stocks in a safe and regulated way.
+
+Quiz 5.4)
+What is the purpose of a ticker symbol?
+A) To show how much a company earns each year
+ B) To predict future stock prices
+ C) To identify a company’s stock using a short code of letters
+ D) To rank companies by popularity
+Correct Answer: C
+Explanation:
+ A ticker symbol is a short letter code used on the stock exchange to quickly identify a company’s stock.
+
+Lesson 5.5) Broker
+
+A broker is a person or company that helps you buy and sell stocks. They act as the middleman between you and the stock exchange. 
+
+
+Lesson 5.6) Brokerage Account
+
+A brokerage account is an account you open with a broker that lets you buy and sell investments like stocks, bonds, or ETFs. It’s like a bank account, but for investing.
+
+
+Quiz 5.7)
+What is a brokerage account?
+A) A record of your past stock purchases
+ B) A government-issued certificate for owning shares
+ C) A physical wallet for storing bonds
+ D) An account you open with a broker to buy and sell investments like stocks or ETFs
+Correct Answer: D
+Explanation:
+ A brokerage account is like a bank account for investing — it lets you trade stocks, bonds, and other assets through a broker.
+
+
+
+
+
+
+
+
+
+
+
+
+
+LESSON 6 - MARKET FLOW
+Lesson 6.1)  Bid-Ask Spread
+
+The bid is the highest price a buyer is willing to pay for a stock
+The ask is the lowest price a seller is willing to accept for a stock
+The bid-ask spread is the difference between the highest price buyers are offering (bid) and the lowest price sellers are asking for (ask). It shows how much buyers and sellers disagree on the price
+
+
+Lesson 6.2) Earnings Per Share
+
+EPS tells you how much profit a company makes for each share of its stock. It helps investors understand how profitable the company is
+
+EPS = (Net Income - Dividends)/Total no of shares
+
+
+
+Quiz 6.3)
+What does the bid-ask spread represent?
+A) The total value of a company's assets
+ B) The difference between the highest price buyers are offering and the lowest price sellers are asking
+ C) The range of a stock’s price over the last year
+ D) The gap between a company’s revenue and expenses
+Correct Answer: B
+Explanation:
+ The bid-ask spread shows the difference between what buyers want to pay (bid) and what sellers want to accept (ask). It reflects how much they disagree on price.
+
+Quiz 6.4) 
+A company has a net income of $10 million, pays out $2 million in dividends, and has 4 million shares. What is the Earnings Per Share (EPS)?
+A) $3
+ B) $2
+ C) $4
+ D) $5
+Correct Answer: A
+Explanation:
+ EPS = (Net Income - Dividends) / Total Shares = ($10M - $2M) ÷ 4M = $8M ÷ 4M = $2 per share.
+(Wait, that's actually $2, so the correct answer is B. Let's fix it.)
+Corrected Answer: B
+Explanation:
+ EPS = (10 - 2) ÷ 4 = 8 ÷ 4 = $2 per share.
+
+
+Lesson 6.5) P/E Ratio
+
+The P/E ratio shows how much investors are paying for each dollar of a company’s earnings. It helps you tell if a stock is priced high or low compared to how much the company is earning.
+
+P/E Ratio =  Share Price/EPS
+
+Company Stock Price = $100
+EPS = $5
+P/E Ratio = 100/5 = 20
+This means investors are willing to pay $20 for every $1 the company earns.
+
+Higher P/E ( 30-40) means that people are paying a lot for each dollar of profit. 
+This may be good because investors believe the company will grow a lot in the future. (e.g., tech companies like Amazon or Tesla).
+Risk: You’re paying a premium, so if the company doesn’t grow like expected, the stock might fall.
+
+Lower P/E ( 5-10) means that the stock is cheaper as compared to how much it earns
+This may be good because it could be a bargain or be undervalued
+Risk: It might be cheap because the company is not growing, is in trouble, or in a declining industry
+
+Quiz 6.6)
+If a company’s stock price is $120 and its EPS is $6, what is its P/E ratio?
+A) 15
+ B) 18
+ C) 20
+ D) 25
+Correct Answer: C
+Explanation:
+ P/E = Price ÷ EPS = 120 ÷ 6 = 20. This means investors are paying $20 for every $1 the company earns.
+Quiz 6.7) 
+Why can a high P/E ratio be risky?
+A) It always means the company is going bankrupt
+ B) It shows the company has no earnings at all
+ C) It means investors are paying a high price now based on future expectations, which may not come true
+ D) It guarantees the company will grow fast
+Correct Answer: C
+Explanation:
+ A high P/E means people expect big growth, but if the company doesn’t deliver, the stock price could fall — so it’s not always a safe bet.
+
+
+Lesson 6.8) Market Order
+
+A market order is when you buy or sell a stock right away at the best price available
+
+
+Lesson 6.9) Limit Order
+
+A limit order is when you set the exact price you want to buy or sell a stock for. The trade only happens if the stock reaches that price, so you have more control.
+
+
+Quiz 6.10) 
+What is the key difference between a market order and a limit order?
+A) A market order lets you set the exact price you want, while a limit order happens immediately
+ B) A market order buys or sells right away at the best price, while a limit order waits until your set price is reached
+ C) A limit order only works after the market closes, while a market order works during market hours
+ D) A market order is used only for buying, and a limit order is used only for selling
+Correct Answer: B
+Explanation:
+ A market order happens instantly at the best available price, while a limit order gives you control by letting you set the price — but it only goes through if that price is reached.
+
+
+
+
+
+
+
+
+
+
+LESSON 7 - STOCKS AND INDEXES
+
+Lesson 7.1) Stock Index
+
+A stock index is a group of selected stocks used to track the overall performance of a part of the market. It gives you a snapshot of how well companies — or a whole sector — are doing.
+
+A stock index is like a basket of fruits — apples, bananas, grapes — where each fruit represents a different company’s stock. Instead of watching one fruit, you track the overall value of the basket to see how the market is doing.
+
+S&P 500: Tracks 500 large US companies
+Dow Jones: Tracks 30 major US companies
+
+
+
+Lesson 7.2) An index shows the overall health of the market or a specific sector, like tech or finance.
+
+Quiz 7.3) 
+What is a stock index?
+ A) A code that identifies a specific stock on the market
+ B) A type of order used to buy stocks
+ C) A group of selected stocks used to track how a part of the market is performing
+ D) A ranking of the most expensive stocks
+Correct Answer: C
+Explanation:
+ A stock index is a collection of certain stocks that shows how a part of the market is doing, like the S&P 500 or Dow Jones.
+
+Quiz 7.4) 
+What does it usually mean when a stock index like the S&P 500 goes up?
+A) The government is lowering taxes
+ B) A specific company is launching a new product
+ C) The stock market, or a part of it, is doing well overall
+ D) All sectors are closing for the day
+Correct Answer: C
+Explanation:
+ When an index rises, it usually means the group of companies it tracks is performing well, which reflects market or sector strength.
+Lesson 7.5) Sector
+
+A sector is a group of companies that do similar types of business. It helps investors compare and study companies in the same industry.
+Tech - AAPL, MSFT
+Healthcare - PFE
+
+
+
+Lesson 7.6) When indices go up or down, they give you a sense of how that part of the economy is doing
+
+Quiz 7.7) 
+What is a sector in the stock market?
+A) A stock exchange located outside the U.S.
+ B) A group of companies with the same founder
+ C) A group of companies in the same type of business, like tech or healthcare
+ D) A company’s private trading division
+Correct Answer: C
+Explanation:
+ A sector is a group of companies that operate in the same industry. For example, Apple and Microsoft are in the tech sector.
+
+Lesson 7.8) Beta(β)
+
+Beta measures how much a stock moves compared to the overall market. It tells you how risky or volatile the stock is.
+
+Beta = 1 → The stock moves the same as the market
+Beta > 1 → The stock is more volatile than the market
+Beta < 1 → The stock is less volatile than the market
+Beta = 0 → The stock doesn’t move with the market (like cash)
+
+Higher the number, the riskier the stock is. 
+
+Quiz 7.9) 
+What does it mean if a stock has a beta of 1.5?
+A) The stock is safer than the overall market
+ B) The stock doesn’t move with the market at all
+ C) The stock is more volatile and risky than the market
+ D) The stock moves exactly the same as the market
+Correct Answer: C
+Explanation:
+ A beta greater than 1 means the stock is more volatile than the market — it moves more, making it riskier.
+
+
+Lesson 7.10) Volatility
+
+Volatility means how much and how quickly a stock’s price goes up and down. The more it moves, the more volatile it is.
+Volatility can mean opportunity, but also higher risk — wild swings can bring big gains or losses
+
+Quiz 7.11) 
+What is volatility?
+A) How much profit a company earns in a year
+ B) How many people are trading a stock
+ C) How much and how quickly a stock’s price moves up or down
+ D) The amount of shares available for a stock
+Correct Answer: C
+Explanation:
+ Volatility refers to how sharply and how often a stock’s price changes — high volatility can mean big gains or big losses.
+
+
+Lesson 7.12) RSI
+
+RSI(Relative Strength Index) is a tool that shows whether a stock might be overbought or oversold. It helps traders know if a stock has been going up or down too much, too fast.
+
+RSI is a number between 0 and 100
+Above 70 → The stock might be overbought (could go down soon)
+Below 30 → The stock might be oversold (could go up soon)
+
+
+Quiz 7.13) 
+If a stock has an RSI of 75, what might that indicate?
+A) The stock is very undervalued
+ B) The stock might be oversold and likely to go up
+ C) The stock is stable with no movement
+ D) The stock might be overbought and due for a drop
+Correct Answer: D
+Explanation:
+ An RSI above 70 suggests the stock may be overbought, meaning it’s gone up a lot recently and could come down soon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+LESSON 8 - BULLS AND BEARS
+
+
+Lesson 8.1 ) Bull/Bear Markets
+
+A bull market is when stock prices are going up and people feel confident about investing. It usually means things are going well in the market.
+A bear market is when stock prices are falling for a long time and people are worried about the economy. It usually means investors are feeling nervous or unsure.
+
+Bull markets are named after bulls because bulls thrust their horns upward, just like prices rise.
+Bear markets are named after bears because bears swipe their paws downward, like prices falling.
+It’s all about the direction of the movement — up for bulls, down for bears!
+Quiz 8.2) 
+What is the difference between a bull market and a bear market?
+A) A bull market is when prices are falling, and a bear market is when prices are rising
+ B) A bull market happens during the winter, and a bear market happens in the summer
+ C) A bull market is when stock prices are rising and investors feel confident, while a bear market is when prices are falling and investors feel uncertain
+ D) A bear market is when more companies go public, while a bull market is when fewer companies go public
+Correct Answer: C
+Explanation:
+ A bull market means prices are rising and confidence is high; a bear market means prices are falling and investors are more cautious or fearful.
+
+
+Lesson 8.3) Equity
+
+Equity means ownership. In the stock market, it refers to the value of the shares you own in a company
+Shareholders’ equity is the value of what a company owns (its assets) minus what it owes (its debts). It’s the part of the company that belongs to the shareholders
+
+Lesson 8.4) ROE
+
+Return on Equity shows how well a company uses its shareholders’ money to make a profit. It tells you how much profit the company earns for every dollar of equity.
+
+ROE = Net Income / Shareholder’s Equity
+
+Quiz 8.5)
+What does equity mean in the stock market?
+A) The amount of cash a company has saved
+ B) Ownership in a company and the value of the shares you hold
+ C) The money borrowed from a bank
+ D) The number of employees working at a company
+Correct Answer: B
+Explanation:
+ Equity represents ownership — it’s the value of the shares you own in a company and what’s left after subtracting a company’s debts from its assets.
+Quiz 8.6) 
+What does Return on Equity (ROE) help investors understand?
+A) How many shares are available in the market
+ B) How risky a company is to invest in
+ C) How well a company uses shareholders’ money to generate profits
+ D) How much tax a company pays
+Correct Answer: C
+Explanation:
+ ROE tells you how efficiently a company is using the money invested by shareholders to make a profit.
+Lesson 8.7) Debt to Equity
+
+The Debt to Equity ratio is a financial metric that indicates how much debt a company uses to finance its assets compared to the value of shareholder equity.
+
+D/E Ratio = Total Liabilities/ Total Shareholder’s equity
+
+Quiz 8.8)
+What does a high Debt to Equity (D/E) ratio usually indicate about a company?
+A) The company has very little debt compared to its equity
+ B) The company uses a lot of debt to finance its assets, which might mean higher risk
+ C) The company has no shareholders
+ D) The company is highly profitable
+Correct Answer: B
+Explanation:
+ A high D/E ratio means the company relies more on debt financing, which can increase financial risk if the company cannot manage its debts well.
+
+
+
+
+
+
+
+
+LESSON 9 - WHAT MOVES THE MARKET
+
+Lesson 9.1) Supply and demand drive stock prices — more buyers push prices up, more sellers pull them down.
+
+
+Lesson 9.2) Liquidity
+
+Liquidity means how easily you can turn something into cash without losing value. The more liquid something is, the faster and easier it is to sell.
+Cash and stocks are liquid; Real Estate is less liquid since it takes longer to sell.
+
+Quiz 9.3) 
+What happens to stock prices when there are more buyers than sellers?
+A) Prices go down
+ B) Prices stay the same
+ C) Prices go up
+ D) The stock stops trading
+Correct Answer: C
+Explanation:
+ More buyers increase demand, which pushes stock prices higher.
+
+Quiz 9.4) 
+What does liquidity mean in the stock market?
+A) How much a stock costs
+ B) How easily you can sell an asset without losing value
+ C) How many people own the stock
+ D) How volatile a stock is
+Correct Answer: B
+Explanation:
+ Liquidity means you can quickly sell an asset like cash or stocks without losing value.
+
+
+Lesson 9.5) Volume
+
+Volume is the number of shares traded in a stock during a certain period of time. It shows how active and liquid a stock is.
+High volume confirms price movement — it shows that many traders agree on the direction.
+Low volume moves are weaker and may not last — they lack conviction
+
+Lesson 9.6) News, earnings reports, and global events can quickly change demand and move stock prices.
+
+Lesson 9.7) Highly liquid stocks are easier to trade and less likely to make sudden wild moves.
+
+Quiz 9.8) 
+Why is trading volume important?
+A) It shows how many employees a company has
+ B) It indicates how active and liquid a stock is, confirming price movements
+ C) It tells you the company's profits
+ D) It measures the stock price
+Correct Answer: B
+Explanation:
+High volume means many shares are traded, supporting the price movement’s strength.
+
+
+
+
+
+
+
+
+
+
+
+LESSON 10 - CANDLESTICKS & 52-W TRENDS
+
+
+
+Lesson 10.1) Candlestick
+
+
+A candlestick is a chart shape that shows a stock’s price movement for a specific time period. It tells you the opening price, closing price, and the highest and lowest prices.
+
+See image
+
+A candlestick has two parts: Body & Wick
+
+Body
+Shows the opening and closing prices during the time period.
+If the body is green, the closing price is higher than the opening (price went up).
+If the body is red, the closing price is lower than the opening (price went down).
+
+Wick
+The top wick shows the highest price reached during that period.
+The bottom wick shows the lowest price reached.
+
+Quiz 10.2)
+What does the body of a candlestick represent?
+A) The highest and lowest prices during the period
+ B) The opening and closing prices during the period
+ C) The total volume of shares traded
+ D) The number of buyers and sellers
+Correct Answer: B
+Explanation:
+The body shows the stock’s opening and closing prices for that time period.
+
+Quiz 10.3)
+What does it mean if the candlestick body is green?
+A) The closing price is higher than the opening price (price went up)
+ B) The stock was not traded during that period
+ C) The stock price stayed the same
+ D) The closing price is lower than the opening price (price went down)
+Correct Answer: A
+Explanation:
+ A green body means the stock’s closing price is higher than the opening — it indicates an upward move in price.
+
+Quiz 10.4)
+What do the wicks (shadows) on a candlestick show?
+A) The opening and closing prices
+ B) The total number of shares traded
+ C) The color of the candlestick
+ D) The highest and lowest prices during the time period
+Correct Answer: D
+Explanation:
+ The top wick shows the highest price, and the bottom wick shows the lowest price reached during that period.
+
+
+Lesson 10.5) 52W-High/Low
+52-Week High is the highest price a stock has reached in the past 52 weeks (1 year). It shows how high the stock has gone recently.
+52-Week Low is the lowest price a stock has reached in the past 52 weeks (1 year). It shows how low the stock has dropped recently.
+
+Quiz 10.6) 
+What’s the difference between a stock’s 52-week high and 52-week low?
+A) The high is the current price, and the low is the price 52 weeks ago
+ B) The high shows the company’s revenue, and the low shows its profit
+ C) The 52-week high is the highest price the stock has reached in the past year, while the 52-week low is the lowest price it has dropped to
+ D) The high is set by the stock exchange, and the low is set by the company
+Correct Answer: C
+Explanation:
+ The 52-week high shows the stock’s highest price in the last 12 months, while the 52-week low shows its lowest price in that time. It helps investors see the stock’s recent price range.
+
+
+
+
+
+
+LESSON 11 - LONG VS SHORT - BETTING BOTH WAYS
+Lesson 11.1) Long Position
+Going long means buying a stock because you think its price will go up. You make money if the stock’s value increases after you buy it.
+
+Lesson 11.2) Short Position
+Going short means you’re betting a stock’s price will go down. You borrow and sell the stock now, hoping to buy it back later at a lower price to make a profit.
+
+Quiz 11.3) 
+You believe a company’s stock will rise in the next few months, so you buy it today and plan to sell it later at a higher price. What kind of position is this?
+A) Going long
+ B) Going short
+ C) Buying on margin
+ D) Holding a dividend
+Correct Answer: A
+Explanation:
+Going long means buying a stock now because you expect its price to go up.
+
+
+Quiz 11.4)
+You think a stock’s price will fall, so you borrow shares and sell them now, planning to buy them back later at a lower price. What kind of position is this?
+A) Holding a long-term investment
+ B) Going short
+ C) Buying options
+ D) Investing in dividends
+Correct Answer: B
+Explanation:
+Going short means selling a borrowed stock now to buy it back later at a lower price — profiting from the drop.
+
+Lesson 11.5) Going long is like planting a seed and waiting for it to grow; going short is like selling fruit before you’ve picked it.
+
+Lesson 11.6) Shorting carries more risk — if the price keeps rising, your losses can be unlimited.
+
+Lesson 11.7) Understanding long vs. short is key to adapting to both rising and falling markets.
+
+Quiz 11.8) 
+Why is short selling considered riskier than going long?
+A) It requires more stock market experience
+ B) You can only short stocks with low volume
+ C) The company could sue you
+ D) If the stock keeps rising, your losses can be unlimited
+Correct Answer: D
+Explanation:
+ With short selling, there's no cap on how high a stock’s price can go — so losses can be much larger than your initial investment.
+
+
+
+
+
+
+
+
+
+Lesson 12.1) Day Trading
+Day trading means buying and selling a stock within the same day. The goal is to make small profits from short-term price movements before the market closes.
+
+Lesson 12.2) Swing Trading
+Swing trading means holding a stock for a few days to a few weeks to profit from short-term price trends. Traders look for bigger moves than day traders but don’t hold positions long term.
+
+Quiz 12.3) 
+Which of the following best describes day trading?
+A) Buying a stock and holding it for several months
+ B) Buying and selling a stock within the same day to profit from small price changes
+ C) Buying stocks based only on company fundamentals
+ D) Investing in real estate through the stock market
+Correct Answer: B
+Explanation:
+ Day trading involves entering and exiting trades within the same day, aiming to capture small price movements before the market closes.
+
+Lesson 12.4) Scalping
+Scalping means making many quick trades throughout the day to earn small profits from tiny price changes. Scalpers often hold positions for just seconds or minutes.
+Quiz 12.5) 
+What is scalping in trading?
+A) Holding a stock for a few weeks to catch price swings
+ B) Making many very fast trades throughout the day to capture tiny price movements
+ C) Buying and holding stocks for the long term
+ D) Selling a stock right before an earnings report
+Correct Answer: B
+Explanation:
+ Scalping is a rapid trading strategy where traders try to profit from small price changes by making lots of trades within minutes or seconds.
+
+Lesson 12.6) 
+Short-term trading requires speed, discipline, and constant attention to news and charts
+Longer-term traders focus more on business fundamentals and ignore daily noise
+
+Quiz 12.7) 
+How do short-term and long-term traders differ in their approach?
+A) Short-term traders ignore market news and focus only on company growth
+ B) Long-term traders rely heavily on short-term price patterns
+ C) Short-term traders focus on speed, news, and charts; long-term traders focus more on fundamentals and ignore daily noise
+ D) Long-term traders usually make trades every few minutes
+Correct Answer: C
+Explanation:
+ Short-term traders rely on quick decisions and technical analysis, while long-term investors care more about the company’s long-term potential and financial health.
+
+
+
+
+
+
+
+
+
+
+
+LESSON 13 - TRADING STRATEGIES
+
+Lesson 13.1) Moving Averages
+
+A moving average is the average price of a stock over a set number of days. It smooths out short-term ups and downs to show the overall trend.
+
+A 50-day moving average shows the average stock price over the last 50 days.
+It helps traders see if a stock is generally going up, down, or sideways.
+
+Quiz 13.2)
+What does a 50-day moving average show?
+A) The number of shares a company has issued
+ B) The average stock price over the last 50 days, helping spot trends
+ C) The stock’s daily trading volume over 50 days
+ D) The company’s profits from the last 50 days
+Correct Answer: B
+Explanation:
+ A 50-day moving average gives a smoothed-out view of a stock’s price trend by averaging its price over the last 50 days — helping traders see the overall direction.
+
+
+Lesson 13.3) MACD
+
+See image
+
+MACD stands for Moving Average Convergence Divergence. 
+It’s a momentum indicator — a tool used in stock charts to help traders decide when to buy or sell based on the stock’s price movement.
+It does this by comparing two moving averages (averages of recent prices):
+A fast-moving average (usually 12 days)
+
+
+A slow-moving average (usually 26 days)
+MACD Line = 12-day EMA − 26-day EMA (difference of the two)
+ (EMA = Exponential Moving Average, which gives more weight to recent prices)
+Signal Line = 9-day EMA of the MACD line
+Histogram = The difference between the MACD line and the Signal line (visually shown as bars)
+When the MACD line crosses above the Signal line, it’s often a buy signal (momentum is shifting up).
+When the MACD line crosses below the Signal line, it’s often a sell signal (momentum is shifting down)
+The bars above or below the zero line show how strong the trend is.
+Bigger bars = stronger momentum
+
+Quiz 13.4) 
+
+ What does it usually mean when the MACD line crosses above the Signal line?
+A) The stock is overvalued and should be avoided
+ B) The stock is showing no momentum
+ C) It may be a sell signal
+ D) It may be a buy signal — momentum is shifting upward
+Correct Answer: D
+Explanation:
+ When the MACD line crosses above the Signal line, it often means bullish momentum is building — traders may see it as a buying opportunity.
+
+Quiz 13.5)
+What is the Histogram in an MACD chart?
+A) A graph showing the total stock volume for the day
+ B) A set of bars comparing stock prices across multiple companies
+ C) The difference between the MACD line and the Signal line, showing momentum strength
+ D) The average of all closing prices over the last 100 days
+Correct Answer: C
+Explanation:
+ The histogram shows how far apart the MACD line and Signal line are. Taller bars mean stronger momentum in the stock’s direction.
+
+Lesson 13.6) True Range/ ATR
+
+True Range is the largest of the three: 
+1) High of the day − Low of the day
+2) High − Previous day’s Close
+3) Low − Previous day’s Close
+ATR stands for Average True Range.
+It’s a volatility indicator — a tool used in stock charts to tell you how much a stock typically moves (up or down) in a day.
+It doesn’t tell you direction (like uptrend or downtrend). It just tells you how big the moves are.
+ATR is calculated by taking the averages of True Ranges over a period (usually 14 days)
+A stock has an ATR of $2.50
+ → That means, on average, this stock moves $2.50 per day (up or down).
+Another stock might have an ATR of $0.40 — meaning it barely moves daily.
+
+Quiz 13.7)
+What does the Average True Range (ATR) tell traders?
+A) Whether a stock is in an uptrend or downtrend
+ B) The average daily trading volume of the stock
+ C) How much a stock typically moves in a day — up or down
+ D) The stock’s total price change over the last year
+Correct Answer: C
+Explanation:
+ ATR is a volatility indicator — it tells you how much a stock usually moves in a day, not the direction of the move.
+
+Quiz 13.8)
+If a stock has an ATR of $3.00, what does that mean?
+A) The stock earns $3 in profit every day
+ B) The stock gains $3 every day
+ C) The stock typically moves about $3 each day, either up or down
+ D) The stock has a guaranteed $3 return
+Correct Answer: C
+Explanation:
+ An ATR of $3.00 means the stock fluctuates by around $3 per day — it doesn't guarantee gains or losses, just movement.
+
+Lesson 13.9) VWAP
+VWAP stands for Volume Weighted Average Price.
+It’s a technical indicator that tells you the average price a stock has traded at throughout the day, but it weights that price based on trading volume.
+If a stock trades at $100 early in the day and $110 later, but way more people bought at $110, the VWAP will be closer to $110 — not just the average of $100 and $110.
+So VWAP shows where most of the money actually traded, not just price movement
+
+VWAP=∑Volume/(∑(Price×Volume)​)
+Quiz 13.10)
+What does VWAP tell traders?
+A) The average price a stock has traded at during the day, weighted by volume
+ B) The average stock price over the past 50 days
+ C) The highest price a stock reached this week
+ D) The total number of trades made during the day
+Correct Answer: A
+Explanation:
+ VWAP reflects the true average price where most trading occurred during the day by factoring in trading volume — not just price.
+
+Quiz 13.11)
+Why is VWAP more useful than a simple price average?
+A) Because it adjusts for how much volume traded at each price
+ B) Because it uses closing prices only
+ C) Because it predicts future prices
+ D) Because it ignores small trades
+Correct Answer: A
+Explanation:
+ VWAP gives more weight to prices with higher trading volume, making it more accurate for traders to judge real market interest.
+
+Lesson 13.12) SMA
+SMA stands for Simple Moving Average.
+It’s one of the most basic and commonly used technical indicators in the stock market.
+SMA smooths out price data to help you see the overall direction (trend) a stock is moving in 
+If you're using a 20-day SMA, it means you're just averaging the last 20 days of closing prices, and plotting that average on the chart for each day.
+A rising SMA suggests the stock is in an uptrend.
+
+
+A falling SMA suggests a downtrend.
+
+
+When the stock’s price crosses above the SMA, it could be a buy signal.
+
+
+When the stock’s price crosses below the SMA, it might be a sell signal.
+
+20-day SMA= (Day 1+Day 2+…+Day 19+Day 20​)/20
+
+
+Then on Day 21, you drop Day 1 and add Day 21 — always keeping the most recent 20 days in the average.
+
+You can also compare two SMAs:
+Example: When the short-term SMA (e.g., 20-day) crosses above the long-term SMA (e.g., 50-day) → that’s called a golden cross (often bullish)
+
+
+When it crosses below, it’s called a death cross (often bearish)
+
+Quiz 13.13)
+What does a rising SMA usually suggest about a stock?
+A) The stock is about to split
+ B) The stock is in an uptrend
+ C) The company is reducing its dividend
+ D) The trading volume is low
+Correct Answer: B
+Explanation:
+ A rising SMA means the stock’s recent closing prices are increasing — a sign that it’s trending upward.
+Quiz 13.14)
+Why do traders use a Simple Moving Average (SMA)?
+A) To calculate company revenue over time
+ B) To find out how much debt a company holds
+ C) To track insider trading
+ D) To smooth out short-term price movements and spot trends
+Correct Answer: D
+Explanation:
+ SMA helps traders see the bigger picture by averaging out recent price data, making it easier to identify trends over time.
+
+Lesson 13.15) 5-Day Change Percentage
+
+
+The 5-Day Change Percentage tells you how much a stock’s price has gone up or down over the last 5 trading days, expressed as a percentage.
+If a stock was $100 five days ago, and it’s $110 now, that’s a +10% change over 5 days.
+If it dropped to $95, that’s a −5% change.
+It helps you quickly see whether a stock has had a strong week or a weak one, in terms of price movement.
+
+
+
+Quiz 13.16)
+A stock was priced at $80 five days ago. Today, it's $88. What is the 5-Day Change Percentage?
+A) +8%
+ B) +10%
+ C) −10%
+ D) −8%
+Correct Answer: B
+Explanation:
+Change % = (88-80)/80  X 100 = 8/80 X 100 = 10%
+So, the stock has increased by +10% over the past 5 days.

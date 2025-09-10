@@ -1,0 +1,7 @@
+not-root/
+
+# readme file
+README.md
+
+# pycache directories
+__pycache__/

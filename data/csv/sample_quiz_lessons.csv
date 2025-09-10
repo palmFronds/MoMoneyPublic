@@ -1,0 +1,62 @@
+id,level_id,title,order,solution_explanation
+1,4,STOCKS Quiz,1,"A stock represents ownership in a company. When you buy a stock, you become a partial owner."
+2,5,SHARES Quiz,1,"A share is a single unit of ownership in a company, letting you know exactly how much of it you own."
+3,6,Stock Prices Quiz,1,"Stock prices change due to supply and demand—when more people want to buy than sell, the price goes up."
+4,10,Buying Stock Quiz,1,Buying stock means becoming a part-owner in a company and sharing in both its growth and risks.
+5,14,IPO Quiz,1,An IPO is the first time a private company sells shares to the public to raise capital and grow.
+6,15,Public Company Quiz,1,A public company is one whose shares are available for anyone to buy on a stock exchange.
+7,16,Private Company Quiz,1,A private company is owned by a small group of people and doesn't sell shares to the public.
+8,19,IPO Reason Quiz,1,"Companies do IPOs to raise money from the public by selling shares, offering partial ownership in return."
+9,22,Dividends Quiz,1,Dividends are money paid by a company to shareholders as a share of profits.
+10,23,Dividend Yield Calculation Quiz,1,Dividend yield is the percentage return on a stock from dividends and is calculated as dividend ÷ price × 100.
+11,25,Capital Gains Quiz,1,Capital gains are profits made from selling a stock for more than you paid.
+12,29,Stock Earnings Quiz,1,You can earn from stocks through regular dividend income or by selling them at a higher price.
+13,32,Market Capitalization Quiz,1,"Market cap is the total value of a company, calculated by multiplying share price by total shares."
+14,33,Market Cap Differences Quiz,1,Large-cap companies are generally more stable; small-cap companies can grow faster but are riskier.
+15,37,Bond Quiz,1,"A bond is like a loan you give a company or government, earning interest over time and repaid at maturity."
+16,38,Security Quiz,1,Securities are tradable financial assets like stocks or bonds representing ownership or a loan.
+17,41,Stock Exchange Quiz,1,A stock exchange is a marketplace where stocks and other securities are bought and sold.
+18,42,Ticker Symbol Purpose Quiz,1,A ticker symbol is a unique abbreviation used to identify a company's stock on an exchange.
+19,45,Brokerage Account Quiz,1,A brokerage account lets you buy and sell stocks and is required to trade on the stock market.
+20,48,Bid-Ask Spread Quiz,1,The bid-ask spread represents the difference between what buyers are willing to pay and sellers ask.
+21,49,Earnings Per Share Calculation Quiz,1,EPS is calculated as (Net Income - Dividends) ÷ Number of Shares and shows profit per share.
+22,51,P/E Ratio Calculation Quiz,1,"The P/E ratio is calculated by dividing stock price by EPS, indicating how much investors pay per dollar of earnings."
+23,52,High P/E Ratio Risk Quiz,1,"A high P/E ratio might signal overvaluation, making the stock risky if earnings don't meet expectations."
+24,55,Market Order vs. Limit Order Quiz,1,"A market order executes immediately at the best price, while a limit order sets a maximum/minimum for the trade."
+25,58,Stock Index Quiz,1,"A stock index tracks the performance of a group of stocks, helping investors understand market trends."
+26,59,S&P 500 Growth Quiz,1,"When the S&P 500 rises, it suggests that most large companies in the U.S. are gaining value."
+27,62,Sector Quiz,1,"A sector is a group of companies in the same industry or business area, like tech or healthcare."
+28,64,Beta Quiz,1,A beta of 1.5 means the stock is 50% more volatile than the market and may have bigger swings.
+29,66,Volatility Quiz,1,"Volatility refers to how much a stock's price moves over time, often used to gauge risk."
+30,68,RSI Quiz,1,An RSI over 70 may indicate a stock is overbought and could soon see a price correction.
+31,70,Bull Market vs. Bear Market Quiz,1,"A bull market is when prices are rising, while a bear market is when they are falling."
+32,73,Equity Quiz,1,"Equity is ownership in a company, often represented by stocks, showing how much of it you own."
+33,74,ROE Purpose Quiz,1,Return on Equity shows how efficiently a company is using shareholders' money to generate profit.
+34,76,Debt to Equity Quiz,1,"A high D/E ratio suggests a company relies heavily on debt, which may be riskier in downturns."
+35,77,Supply and Demand Quiz,1,"If more people want to buy a stock than sell, demand rises and the stock price usually goes up."
+36,79,Liquidity Quiz,1,Liquidity is how easily a stock can be bought or sold without affecting its price.
+37,80,Stock Prices and Liquidity Quiz,1,High liquidity means it's easier to trade the stock quickly and at a stable price.
+38,83,Volume Quiz,1,Volume shows how many shares were traded in a period — high volume means high interest.
+39,84,Why Volume Matters Quiz,1,"High volume can signal strong interest or big moves, confirming trends or reversals."
+40,86,Candlestick Body Quiz,1,The body of a candlestick shows the price range between open and close during a time frame.
+41,87,Green Candlestick Quiz,1,A green candlestick means the stock's price closed higher than it opened.
+42,88,Candlestick Wicks Quiz,1,Wicks show the highest and lowest prices traded during the candlestick's time frame.
+43,90,52W-High/Low Quiz,1,"The 52-week high/low shows the range a stock has traded in the past year, helping gauge volatility."
+44,93,Long Position Quiz,1,A long position is when you buy a stock expecting its price to rise.
+45,94,Short Position Quiz,1,"A short position involves borrowing and selling a stock now, hoping to buy it back cheaper later."
+46,95,Long vs. Short Quiz,1,Going long profits from price increases; going short profits from price decreases.
+47,96,Short Position Risk Quiz,1,Short selling is riskier because potential losses are unlimited if the stock price keeps rising.
+48,98,Short Selling Risk Quiz,1,"The biggest risk is unlimited losses, as the price of a stock can rise indefinitely."
+49,101,Day Trading Quiz,1,Day trading involves buying and selling securities within the same day to profit from short-term price changes.
+50,103,Scalping Quiz,1,Scalping is a strategy where traders make many small trades to capture quick profits on minor price moves.
+51,105,Long-Term vs. Short-Term Trading Quiz,1,"Long-term traders hold positions for months or years; short-term traders look for quick, smaller gains."
+52,107,50-Day Moving Average Quiz,1,"The 50-day MA shows the average closing price over the last 50 days, used to track trends."
+53,109,MACD Line Cross Quiz,1,"When the MACD crosses above the Signal line, it's often seen as a bullish (buy) signal."
+54,110,MACD Histogram Quiz,1,The histogram shows the difference between MACD and Signal lines and highlights momentum shifts.
+55,112,ATR Quiz,1,"ATR measures how much a stock typically moves, helping assess volatility and risk."
+56,113,ATR Calculation Quiz,1,"An ATR of $3.00 means the stock's price moves about $3 per day, on average."
+57,115,VWAP Quiz,1,"VWAP shows the average price at which a stock has traded throughout the day, weighted by volume."
+58,116,VWAP vs. Simple Average Quiz,1,"VWAP includes volume, offering more realistic trade levels than a simple average."
+59,118,Rising SMA Quiz,1,"A rising SMA usually signals upward price momentum, suggesting a bullish trend."
+60,119,SMA Purpose Quiz,1,Traders use SMAs to smooth out price data and identify trends over time.
+61,121,5-Day Change Percentage Quiz,1,"To find 5-day change, subtract the old price from today's and divide by the old price, then ×100."

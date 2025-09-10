@@ -1,0 +1,661 @@
+/* Add global box-sizing */
+html, body, * {
+  box-sizing: border-box;
+}
+
+html, body, #root, .sim-trading-window, .sim-main-layout {
+  width: 100vw !important;
+  min-width: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: #181c24 !important;
+}
+
+/* Chart animations */
+@keyframes pulse {
+  0% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.5;
+    transform: scale(1.1);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(-20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+/* Chart container animations */
+.chart-container {
+  animation: fadeIn 0.3s ease-out;
+}
+
+.chart-controls {
+  animation: slideIn 0.4s ease-out;
+}
+
+/* Live indicator pulse */
+.live-indicator {
+  animation: pulse 2s infinite;
+}
+
+/* Chart loading state */
+.chart-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  color: #8b8fa3;
+  font-size: 16;
+  text-align: center;
+}
+
+.chart-loading::after {
+  content: '';
+  width: 20px;
+  height: 20px;
+  border: 2px solid #2e3448;
+  border-top: 2px solid #00ffe7;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-left: 10px;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Chart tooltip styles */
+.chart-tooltip {
+  background: rgba(35, 40, 58, 0.95);
+  border: 1px solid #2e3448;
+  border-radius: 6px;
+  padding: 8px 12px;
+  font-size: 12px;
+  color: #e0e6f0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  pointer-events: none;
+  z-index: 1000;
+}
+
+/* Chart overlay elements */
+.chart-overlay {
+  position: absolute;
+  z-index: 10;
+  background: rgba(35, 40, 58, 0.9);
+  border: 1px solid #2e3448;
+  border-radius: 6px;
+  padding: 8px 12px;
+  font-size: 12px;
+  color: #8b8fa3;
+  backdrop-filter: blur(4px);
+}
+
+/* Chart controls styling */
+.chart-controls select {
+  background: #23283a;
+  color: #e0e6f0;
+  border: 1px solid #2e3448;
+  border-radius: 4px;
+  padding: 4px 8px;
+  font-size: 12px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.chart-controls select:focus {
+  border-color: #00ffe7;
+}
+
+.chart-controls select:hover {
+  border-color: #2e3448;
+}
+
+/* Volume bar styling */
+.volume-bar {
+  transition: opacity 0.2s;
+}
+
+.volume-bar:hover {
+  opacity: 0.8;
+}
+
+/* Candlestick hover effects */
+.candlestick {
+  transition: opacity 0.2s;
+}
+
+.candlestick:hover {
+  opacity: 0.8;
+}
+
+/* Responsive chart adjustments */
+@media (max-width: 1200px) {
+  .chart-overlay {
+    font-size: 11px;
+    padding: 6px 10px;
+  }
+  
+  .chart-controls select {
+    font-size: 11px;
+    padding: 3px 6px;
+  }
+}
+
+@media (max-width: 768px) {
+  .chart-overlay {
+    font-size: 10px;
+    padding: 4px 8px;
+  }
+  
+  .chart-controls {
+    flex-direction: column;
+    gap: 4px;
+  }
+}
+
+.trading-window {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #1e222d;
+  color: #ffffff;
+}
+
+.trading-header {
+  padding: 1rem;
+  background-color: #2a2e39;
+  border-bottom: 1px solid #3a3f4b;
+}
+
+.market-overview {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.market-indices {
+  display: flex;
+  gap: 2rem;
+}
+
+.index-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.index-name {
+  font-size: 0.875rem;
+  color: #8b8fa3;
+}
+
+.index-value {
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.positive {
+  color: #26a69a;
+}
+
+.negative {
+  color: #ef5350;
+}
+
+.trading-main {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+}
+
+.chart-section {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  border-right: 1px solid #3a3f4b;
+}
+
+.chart-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.chart-controls {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.chart-controls button {
+  padding: 0.25rem 0.75rem;
+  background-color: #2a2e39;
+  border: 1px solid #3a3f4b;
+  color: #ffffff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.chart-controls button:hover {
+  background-color: #3a3f4b;
+}
+
+.chart-container {
+  flex: 1;
+  background-color: #2a2e39;
+  border-radius: 4px;
+}
+
+.trading-sidebar {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem;
+  background-color: #2a2e39;
+}
+
+.order-panel {
+  background-color: #1e222d;
+  padding: 1rem;
+  border-radius: 4px;
+}
+
+.order-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.form-group label {
+  font-size: 0.875rem;
+  color: #8b8fa3;
+}
+
+.form-group input,
+.form-group select {
+  padding: 0.5rem;
+  background-color: #2a2e39;
+  border: 1px solid #3a3f4b;
+  color: #ffffff;
+  border-radius: 4px;
+}
+
+.order-buttons {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.buy-button,
+.sell-button {
+  flex: 1;
+  padding: 0.5rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.buy-button {
+  background-color: #26a69a;
+  color: #ffffff;
+}
+
+.sell-button {
+  background-color: #ef5350;
+  color: #ffffff;
+}
+
+.positions-panel {
+  background-color: #1e222d;
+  padding: 1rem;
+  border-radius: 4px;
+}
+
+.position-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #3a3f4b;
+}
+
+.position-item:last-child {
+  border-bottom: none;
+}
+
+.symbol {
+  font-weight: 500;
+}
+
+.quantity {
+  color: #8b8fa3;
+}
+
+.pnl {
+  font-weight: 500;
+}
+
+.sim-trading-window {
+  height: 100vh;
+  color: #e0e6f0;
+  font-family: 'VT323', 'Fira Mono', 'Consolas', monospace;
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+}
+
+.sim-main-layout {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  min-width: 0;
+}
+
+.sim-trade-panel {
+  width: 320px;
+  background: #1c212b;
+  border-right: 2px solid #23283a;
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem 1rem 1rem 1rem;
+  box-shadow: 2px 0 8px #0008;
+  min-width: 320px;
+  max-width: 320px;
+  flex-shrink: 0;
+}
+
+.sim-right-panel {
+  flex: 1 1 0;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  height: 100vh;
+}
+
+.sim-chart-panel {
+  flex: 2 1 0;
+  background: #181c24;
+  padding: 1.5rem 1.5rem 0 1.5rem;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.sim-bottom-panel {
+  flex: 1 1 0;
+  background: #1c212b;
+  border-top: 2px solid #23283a;
+  padding: 0.5rem 1.5rem 1rem 1.5rem;
+  box-shadow: 0 -2px 8px #0008;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.sim-panel-title {
+  font-size: 1.3rem;
+  margin-bottom: 1.2rem;
+  letter-spacing: 2px;
+  color: #00ffe7;
+  text-shadow: 0 0 4px #00ffe7, 0 0 2px #23283a;
+}
+
+.sim-trade-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.sim-form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.sim-form-group label {
+  font-size: 1rem;
+  color: #7ee787;
+  letter-spacing: 1px;
+}
+
+.sim-form-group input,
+.sim-form-group select {
+  background: #23283a;
+  border: 1.5px solid #2e3448;
+  color: #e0e6f0;
+  padding: 0.4rem 0.7rem;
+  border-radius: 4px;
+  font-size: 1.1rem;
+  font-family: inherit;
+  outline: none;
+  transition: border 0.2s;
+}
+.sim-form-group input:focus,
+.sim-form-group select:focus {
+  border: 1.5px solid #00ffe7;
+}
+
+.sim-order-side-btns {
+  display: flex;
+  gap: 0.5rem;
+}
+.sim-buy, .sim-sell {
+  flex: 1;
+  font-size: 1.1rem;
+  font-family: inherit;
+  padding: 0.4rem 0;
+  border-radius: 4px;
+  border: 2px solid #23283a;
+  cursor: pointer;
+  background: #23283a;
+  color: #7ee787;
+  transition: background 0.2s, border 0.2s;
+}
+.sim-buy.active, .sim-buy:hover {
+  background: #00ffe7;
+  color: #181c24;
+  border: 2px solid #00ffe7;
+}
+.sim-sell {
+  color: #ff6b81;
+}
+.sim-sell.active, .sim-sell:hover {
+  background: #ff6b81;
+  color: #181c24;
+  border: 2px solid #ff6b81;
+}
+
+.sim-place-order {
+  margin-top: 0.5rem;
+  background: #00ffe7;
+  color: #181c24;
+  font-size: 1.2rem;
+  font-family: inherit;
+  border: none;
+  border-radius: 4px;
+  padding: 0.6rem 0;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 0 8px #00ffe7aa;
+  transition: background 0.2s;
+}
+.sim-place-order:hover {
+  background: #7ee787;
+  color: #181c24;
+}
+
+.sim-chart-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.7rem;
+}
+.sim-symbol-info {
+  font-size: 1.5rem;
+  color: #00ffe7;
+  letter-spacing: 2px;
+  text-shadow: 0 0 4px #00ffe7, 0 0 2px #23283a;
+}
+.sim-interval-btns {
+  display: flex;
+  gap: 0.5rem;
+}
+.sim-interval-btns button {
+  background: #23283a;
+  color: #e0e6f0;
+  border: 1.5px solid #2e3448;
+  border-radius: 4px;
+  font-size: 1rem;
+  font-family: inherit;
+  padding: 0.3rem 0.8rem;
+  cursor: pointer;
+  transition: background 0.2s, border 0.2s;
+}
+.sim-interval-btns button.active, .sim-interval-btns button:hover {
+  background: #00ffe7;
+  color: #181c24;
+  border: 1.5px solid #00ffe7;
+}
+.sim-chart-container {
+  flex: 1 1 0;
+  background: #23283a;
+  border-radius: 8px;
+  border: 2px solid #23283a;
+  min-height: 320px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 16px #000a;
+}
+.sim-chart-placeholder {
+  color: #7ee787;
+  font-size: 2rem;
+  opacity: 0.7;
+  font-family: inherit;
+}
+
+.sim-orders-tabs {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.7rem;
+}
+.sim-orders-tabs button {
+  background: #23283a;
+  color: #e0e6f0;
+  border: 1.5px solid #2e3448;
+  border-radius: 4px 4px 0 0;
+  font-size: 1rem;
+  font-family: inherit;
+  padding: 0.3rem 1.2rem;
+  cursor: pointer;
+  transition: background 0.2s, border 0.2s;
+}
+.sim-orders-tabs button.active, .sim-orders-tabs button:hover {
+  background: #00ffe7;
+  color: #181c24;
+  border: 1.5px solid #00ffe7;
+}
+.sim-positions-table {
+  background: #23283a;
+  border-radius: 0 0 8px 8px;
+  border: 2px solid #23283a;
+  box-shadow: 0 0 8px #000a;
+  overflow-x: auto;
+}
+.sim-positions-table table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 1.1rem;
+  font-family: inherit;
+}
+.sim-positions-table th, .sim-positions-table td {
+  padding: 0.6rem 0.7rem;
+  text-align: left;
+  border-bottom: 1px solid #2e3448;
+}
+.sim-positions-table th {
+  color: #00ffe7;
+  font-size: 1.05rem;
+  letter-spacing: 1px;
+  background: #1c212b;
+  text-shadow: 0 0 2px #00ffe7;
+}
+.sim-positions-table td {
+  color: #e0e6f0;
+}
+.sim-positions-table td.sim-pnl-positive {
+  color: #7ee787 !important;
+  font-weight: bold;
+}
+.sim-positions-table td.sim-pnl-negative {
+  color: #ff6b81 !important;
+  font-weight: bold;
+}
+
+/* Scrollbar for retro/game feel */
+.sim-positions-table::-webkit-scrollbar {
+  height: 8px;
+  background: #23283a;
+}
+.sim-positions-table::-webkit-scrollbar-thumb {
+  background: #00ffe7;
+  border-radius: 4px;
+}
+
+/* Responsive tweaks */
+@media (max-width: 900px) {
+  .sim-main-layout {
+    flex-direction: column;
+  }
+  .sim-trade-panel {
+    width: 100%;
+    border-right: none;
+    border-bottom: 2px solid #23283a;
+    box-shadow: none;
+  }
+  .sim-chart-panel {
+    padding: 1rem;
+  }
+  .sim-bottom-panel {
+    padding: 0.5rem 1rem 1rem 1rem;
+  }
+}
+
+.sim-positions-table--fullwidth {
+  border-left: none !important;
+  border-radius: 0 0 8px 8px !important;
+} 

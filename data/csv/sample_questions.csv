@@ -1,0 +1,62 @@
+id,level_id,text,order
+1,4,What does owning a stock mean?,1
+2,5,What is a share?,1
+3,6,Why do stock prices change?,1
+4,10,What happens when you buy a stock?,1
+5,14,What is an IPO?,1
+6,15,What is a public company?,1
+7,16,What is a private company?,1
+8,19,Why do companies do IPOs?,1
+9,22,What is a dividend?,1
+10,23,"If a stock's annual dividend per share is $2 and the stock price is $50, what is the dividend yield?",1
+11,25,What are capital gains?,1
+12,29,Which of the following is true about earning from stocks?,1
+13,32,What is market capitalization (market cap)?,1
+14,33,What is a key difference between large-cap and small-cap companies?,1
+15,37,What is a bond?,1
+16,38,Which of the following is considered a security?,1
+17,41,What is a stock exchange?,1
+18,42,What is the purpose of a ticker symbol?,1
+19,45,What is a brokerage account?,1
+20,48,What does the bid-ask spread represent?,1
+21,49,"A company has a net income of $10 million, pays out $2 million in dividends, and has 4 million shares. What is the Earnings Per Share (EPS)?",1
+22,51,"If a company's stock price is $120 and its EPS is $6, what is its P/E ratio?",1
+23,52,Why can a high P/E ratio be risky?,1
+24,55,What is the key difference between a market order and a limit order?,1
+25,58,What is a stock index?,1
+26,59,What does it usually mean when a stock index like the S&P 500 goes up?,1
+27,62,What is a sector in the stock market?,1
+28,64,What does it mean if a stock has a beta of 1.5?,1
+29,66,What is volatility?,1
+30,68,"If a stock has an RSI of 75, what might that indicate?",1
+31,70,What is the difference between a bull market and a bear market?,1
+32,73,What does equity mean in the stock market?,1
+33,74,What does Return on Equity (ROE) help investors understand?,1
+34,76,What does a high Debt to Equity (D/E) ratio usually indicate about a company?,1
+35,77,What happens to stock prices when there are more buyers than sellers?,1
+36,79,What does liquidity mean in the stock market?,1
+37,80,What does it mean if a stock has high liquidity?,1
+38,83,Why is trading volume important?,1
+39,84,What does high trading volume usually indicate?,1
+40,86,What does the body of a candlestick represent?,1
+41,87,What does it mean if the candlestick body is green?,1
+42,88,What do the wicks (shadows) on a candlestick show?,1
+43,90,What's the difference between a stock's 52-week high and 52-week low?,1
+44,93,"You believe a company's stock will rise in the next few months, so you buy it today and plan to sell it later at a higher price. What kind of position is this?",1
+45,94,"You think a stock's price will fall, so you borrow shares and sell them now, planning to buy them back later at a lower price. What kind of position is this?",1
+46,95,What is the main difference between going long and going short?,1
+47,96,Why is short selling considered riskier than going long?,1
+48,98,What is the main risk of short selling?,1
+49,101,Which of the following best describes day trading?,1
+50,103,What is scalping in trading?,1
+51,105,How do short-term and long-term traders differ in their approach?,1
+52,107,What does a 50-day moving average show?,1
+53,109,What does it usually mean when the MACD line crosses above the Signal line?,1
+54,110,What is the Histogram in an MACD chart?,1
+55,112,What does the Average True Range (ATR) tell traders?,1
+56,113,"If a stock has an ATR of $3.00, what does that mean?",1
+57,115,What does VWAP tell traders?,1
+58,116,Why is VWAP more useful than a simple price average?,1
+59,118,What does a rising SMA usually suggest about a stock?,1
+60,119,Why do traders use a Simple Moving Average (SMA)?,1
+61,121,"A stock was priced at $80 five days ago. Today, it's $88. What is the 5-Day Change Percentage?",1
