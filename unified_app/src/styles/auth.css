@@ -1,0 +1,176 @@
+.modern-auth-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: #181a20;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1; /* Optional: make sure it's above background content */
+}
+
+.modern-auth-card {
+  background: #1f222a;
+  border-radius: 12px;
+  border: 1px solid #00ffe750;
+  padding: 3.5rem 2.5rem 3rem 2.5rem;
+  max-width: 480px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2.2rem;
+  margin: 0;
+  transition: border 0.2s, box-shadow 0.2s;
+  box-shadow: none;
+}
+
+.modern-auth-title {
+  font-size: 2.2rem;
+  font-family: 'Press Start 2P', monospace;
+  font-weight: 700;
+  color: #00ffe1;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  letter-spacing: 0.02em;
+  text-shadow: 0 0 8px #00ffe1;
+}
+
+.modern-auth-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  width: 100%;
+  align-items: center;
+}
+
+.modern-auth-field label {
+  font-size: 1.1rem;
+  color: #f0f0f0;
+  font-family: 'Press Start 2P', monospace;
+  font-weight: 500;
+  margin-bottom: 0.2em;
+}
+
+.modern-auth-field input {
+  padding: 0.9em 1.2em;
+  border: 2px solid #222;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  background: #232323;
+  color: #f0f0f0;
+  font-family: 'Press Start 2P', monospace;
+  width: 320px;
+  transition: border 0.2s, box-shadow 0.2s;
+  outline: none;
+}
+
+.modern-auth-field input:focus {
+  border: 2px solid #00ffe1;
+  box-shadow: 0 0 8px #00ffe1;
+  background: #181a20;
+}
+
+.modern-auth-btn {
+  background: linear-gradient(90deg, #00ffe1 0%, #00bfae 100%);
+  color: #181a20;
+  font-family: 'Press Start 2P', monospace;
+  font-weight: 700;
+  border: none;
+  border-radius: 8px;
+  padding: 1em 0;
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin-top: 0.5em;
+  width: 320px;
+  box-shadow: 0 0 8px #00ffe1;
+  transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+}
+
+.modern-auth-btn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.modern-auth-btn:hover:not(:disabled) {
+  background: linear-gradient(90deg, #00bfae 0%, #00ffe1 100%);
+  color: #111;
+  box-shadow: 0 0 16px #00ffe1;
+}
+
+.modern-google-btn-wrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5em;
+  width: 100%;
+}
+
+.modern-google-btn {
+  background: #232323;
+  color: #f0f0f0;
+  border: 2px solid #00ffe1;
+  border-radius: 8px;
+  padding: 0.9em 1.2em;
+  font-size: 1.05rem;
+  font-family: 'Press Start 2P', monospace;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  cursor: pointer;
+  box-shadow: 0 0 8px #00ffe1;
+  transition: border 0.2s, box-shadow 0.2s, background 0.2s;
+  width: 320px;
+  justify-content: center;
+}
+
+.modern-google-btn:hover {
+  border: 2px solid #ff00ff;
+  box-shadow: 0 0 16px #ff00ff;
+  background: #2a003f;
+}
+
+.modern-google-icon {
+  display: flex;
+  align-items: center;
+}
+
+.modern-auth-error {
+  color: #ff00ff;
+  background: #2a003f;
+  border-radius: 6px;
+  padding: 0.7em 1em;
+  margin-top: 0.5em;
+  text-align: center;
+  font-size: 1.1rem;
+  font-family: 'Press Start 2P', monospace;
+  box-shadow: 0 0 8px #ff00ff;
+}
+
+.modern-signup-choice {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2em;
+  width: 100%;
+  align-items: center;
+}
+
+@media (max-width: 600px) {
+  .modern-auth-card {
+    padding: 1.2rem 0.5rem 1.5rem 0.5rem;
+    max-width: 98vw;
+  }
+  .modern-auth-title {
+    font-size: 1.2rem;
+  }
+  .modern-auth-field input,
+  .modern-auth-btn,
+  .modern-google-btn {
+    width: 90vw;
+    min-width: 0;
+    font-size: 0.9rem;
+  }
+}

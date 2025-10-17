@@ -1,0 +1,120 @@
+id,title,type,order,unit_id
+1,STOCKS,microlearning,1,1
+2,SHARES,microlearning,1,1  
+3,Supply and Demand,microlearning,1,1
+4,STOCKS Quiz,quiz,1,1
+5,SHARES Quiz,quiz,1,1
+6,Stock Prices Quiz,quiz,1,1
+7,COMPANY,microlearning,1,1
+8,Ownership,microlearning,1,1
+10,Buying Stock Quiz,quiz,1,1
+11,IPO,microlearning,1,2
+12,Public Company,microlearning,1,2
+13,Private Company,microlearning,1,2
+14,IPO Quiz,quiz,1,2
+15,Public Company Quiz,quiz,1,2
+16,Private Company Quiz,quiz,1,2
+17,IPO Purpose,microlearning,1,2
+18,Public Trading,microlearning,1,2
+19,IPO Reason Quiz,quiz,1,2
+20,Dividend,microlearning,1,3
+21,Dividend Yield,microlearning,1,3
+22,Dividends Quiz,quiz,1,3
+23,Dividend Yield Calculation Quiz,quiz,1,3
+24,Capital Gains,microlearning,1,3
+25,Capital Gains Quiz,quiz,1,3
+26,Earning from Stocks,microlearning,1,3
+27,Dividend Policy,microlearning,1,3
+28,Stock Value,microlearning,1,3
+29,Stock Earnings Quiz,quiz,1,3
+30,Market Cap,microlearning,1,4
+31,Large-Cap vs. Small-Cap,microlearning,1,4
+32,Market Capitalization Quiz,quiz,1,4
+33,Market Cap Calculation Quiz,quiz,1,4
+35,Bond,microlearning,1,4
+36,Securities,microlearning,1,4
+37,Bond Quiz,quiz,1,4
+38,Security Quiz,quiz,1,4
+39,Stock Exchange,microlearning,1,5
+40,Ticker Symbol,microlearning,1,5
+41,Stock Exchange Quiz,quiz,1,5
+42,Ticker Symbol Purpose Quiz,quiz,1,5
+43,Broker,microlearning,1,5
+44,Brokerage Account,microlearning,1,5
+45,Brokerage Account Quiz,quiz,1,5
+46,Bid-Ask Spread,microlearning,1,6
+47,Earnings Per Share,microlearning,1,6
+48,Bid-Ask Spread Quiz,quiz,1,6
+49,Earnings Per Share Calculation Quiz,quiz,1,6
+50,P/E Ratio,microlearning,1,6
+51,P/E Ratio Calculation Quiz,quiz,1,6
+52,High P/E Ratio Risk Quiz,quiz,1,6
+53,Market Order,microlearning,1,6
+54,Limit Order,microlearning,1,6
+55,Market Order vs. Limit Order Quiz,quiz,1,6
+56,Stock Index,microlearning,1,7
+57,Stock Index Purpose,microlearning,1,7
+58,Stock Index Quiz,quiz,1,7
+59,S&P 500 Growth Quiz,quiz,1,7
+60,Sector,microlearning,1,7
+61,Sector Performance,microlearning,1,7
+62,Sector Quiz,quiz,1,7
+63,Beta,microlearning,1,7
+64,Beta Quiz,quiz,1,7
+65,Volatility,microlearning,1,7
+66,Volatility Quiz,quiz,1,7
+67,RSI,microlearning,1,7
+68,RSI Quiz,quiz,1,7
+69,Bull/Bear Markets,microlearning,1,8
+70,Bull Market vs. Bear Market Quiz,quiz,1,8
+71,Equity,microlearning,1,8
+72,Return on Equity,microlearning,1,8
+73,Equity Quiz,quiz,1,8
+74,ROE Purpose Quiz,quiz,1,8
+75,Debt to Equity,microlearning,1,8
+76,Debt to Equity Quiz,quiz,1,8
+77,Supply and Demand Quiz,quiz,1,9
+78,Liquidity,microlearning,1,9
+79,Liquidity Quiz,quiz,1,9
+80,Stock Prices and Liquidity,quiz,1,9
+81,Volume,microlearning,1,9
+82,Volume and Stock Prices,microlearning,1,9
+83,Volume Quiz,quiz,1,9
+84,Why Volume Matters,quiz,1,9
+85,Candlestick,microlearning,1,10
+86,Candlestick Body Quiz,quiz,1,10
+87,Green Candlestick Quiz,quiz,1,10
+88,Candlestick Wicks Quiz,quiz,1,10
+89,52W-High/Low,microlearning,1,10
+90,52W-High/Low Quiz,quiz,1,10
+91,Long Position,microlearning,1,11
+92,Short Position,microlearning,1,11
+93,Long Position Quiz,quiz,1,11
+94,Short Position Quiz,quiz,1,11
+95,Long vs. Short Quiz,quiz,1,11
+96,Short Position Risk Quiz,quiz,1,11
+97,Understanding Long vs. Short,microlearning,1,11
+98,Short Selling Risk Quiz,quiz,1,11
+99,Day Trading,microlearning,1,12
+100,Swing Trading,microlearning,1,12
+101,Day Trading Quiz,quiz,1,12
+102,Scalping,microlearning,1,12
+103,Scalping Quiz,quiz,1,12
+104,Short-Term Trading,microlearning,1,12
+105,Long-Term vs. Short-Term Trading,quiz,1,12
+106,Moving Averages,microlearning,1,13
+107,50-Day Moving Average Quiz,quiz,1,13
+108,MACD,microlearning,1,13
+109,MACD Line Cross Quiz,quiz,1,13
+110,MACD Histogram Quiz,quiz,1,13
+111,True Range/ ATR,microlearning,1,13
+112,ATR Quiz,quiz,1,13
+113,ATR Calculation Quiz,quiz,1,13
+114,VWAP,microlearning,1,13
+115,VWAP Quiz,quiz,1,13
+116,VWAP vs. Simple Average Quiz,quiz,1,13
+117,SMA,microlearning,1,13
+118,Rising SMA Quiz,quiz,1,13
+119,SMA Purpose Quiz,quiz,1,13
+120,5-Day Change Percentage,microlearning,1,13
+121,5-Day Change Percentage Quiz,quiz,1,13

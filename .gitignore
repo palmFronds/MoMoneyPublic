@@ -1,0 +1,20 @@
+# Ignore the local startup script and all bet files
+.bat
+__pycache__/
+.pyc
+.pyo
+.pyd
+momoney.db
+
+# ignore the datasets
+data/ticker_data/csv/*.csv
+data/ticker_data/csv/
+
+# environment variables
+.env
+
+# Virtual environment
+.venv/
+
+*.json
+.node_modules/
