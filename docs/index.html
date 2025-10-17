@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MoMoney — Activation for Retail Brokerages</title>
+    <meta name="description" content="MoMoney adds an interactive onboarding layer that turns curious sign‑ups into confident, retained investors." />
+    <style>
+      :root {
+        --rose-50:#fff1f2; --amber-50:#fffbeb; --fuchsia-50:#fdf4ff;
+        --rose-200:#fecdd3; --orange-100:#ffedd5; --amber-200:#fde68a; --pink-200:#fbcfe8; --violet-100:#ede9fe; --fuchsia-200:#f5d0fe;
+        --slate-900:#0f172a; --slate-800:#1f2937; --slate-700:#334155; --slate-600:#475569; --slate-500:#64748b; --white:rgba(255,255,255,0.9);
+        --gradient-heading: linear-gradient(90deg,#f43f5e,#fb923c,#f59e0b);
+      }
+      *{box-sizing:border-box}
+      body{margin:0;font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;color:var(--slate-900);background:#fff}
+      .shell{max-width:1200px;margin:0 auto;padding:0 1rem}
+      header{position:sticky;top:0;z-index:40;background:rgba(255,255,255,0.7);backdrop-filter:blur(12px);border-bottom:1px solid rgba(255,255,255,0.4)}
+      .nav{display:flex;align-items:center;justify-content:space-between;height:64px}
+      .brand{display:flex;align-items:center;gap:.5rem;font-weight:600;color:var(--slate-800)}
+      .dot{width:28px;height:28px;border-radius:8px;background:linear-gradient(135deg,#fda4af,#f9a8d4,#fcd34d);box-shadow:0 1px 2px rgba(0,0,0,.06)}
+      .links{display:none;gap:1.5rem;color:#334155}
+      .links a{color:inherit;text-decoration:none}
+      @media (min-width:768px){.links{display:flex}}
+      .hero{position:relative;overflow:hidden;padding:80px 0}
+      .hero h1{font-weight:800;line-height:1.1;font-size:42px;background:var(--gradient-heading);-webkit-background-clip:text;background-clip:text;color:transparent}
+      @media (min-width:640px){.hero h1{font-size:56px}}@media (min-width:768px){.hero h1{font-size:64px}}
+      .sub{max-width:720px;margin:0.75rem auto 0;color:var(--slate-600);font-size:18px;text-align:center}
+      .pill{display:inline-flex;align-items:center;border:1px solid rgba(244,114,182,.4);background:rgba(255,255,255,.7);padding:.25rem .75rem;border-radius:999px;font-size:12px;color:#be123c}
+      .cta{display:flex;flex-wrap:wrap;gap:.75rem;justify-content:center;margin-top:1rem}
+      .btn{padding:.75rem 1rem;border-radius:999px;font-weight:600;text-decoration:none;display:inline-flex;align-items:center;box-shadow:0 10px 24px -12px rgba(244,114,182,.5)}
+      .btn.primary{color:#fff;background:linear-gradient(90deg,#f43f5e,#fb923c,#f59e0b)}
+      .btn.ghost{color:#be123c;border:1px solid rgba(244,114,182,.4);background:rgba(255,255,255,.7)}
+      .card{max-width:960px;margin:2rem auto 0;border:1px solid rgba(255,255,255,.5);background:rgba(255,255,255,.6);backdrop-filter:blur(20px);border-radius:16px;padding:8px;box-shadow:0 12px 60px -20px rgba(244,114,182,.35)}
+      .card-inner{border-radius:12px;background:rgba(255,255,255,.85);padding:20px;box-shadow:inset 0 0 0 1px rgba(0,0,0,.05)}
+      .preview{height:360px;border-radius:12px;display:flex;align-items:center;justify-content:center;background:linear-gradient(#ffe4e6,#fff,#fffbeb);color:#64748b}
+      section{padding:48px 0}
+      .grid{display:grid;gap:16px}
+      @media (min-width:768px){.grid.two{grid-template-columns:1fr 1fr}}
+      @media (min-width:1024px){.grid.four{grid-template-columns:repeat(4,1fr)}}
+      .panel{border:1px solid rgba(255,255,255,.5);background:rgba(255,255,255,.7);backdrop-filter:blur(16px);padding:24px;border-radius:16px;box-shadow:0 1px 2px rgba(0,0,0,.02)}
+      .panel h3{margin:0 0 .25rem 0;font-size:20px}
+      .panel p{margin:.25rem 0;color:var(--slate-600)}
+      .items{display:grid;gap:.5rem;margin-top:1rem}
+      .item{display:flex;gap:.5rem;align-items:flex-start;color:#334155}
+      .tick{display:inline-grid;width:20px;height:20px;border-radius:999px;border:1px solid rgba(244,114,182,.6);place-items:center;color:#be123c;font-size:10px;margin-top:2px}
+      .metric{border:1px solid rgba(255,255,255,.5);background:rgba(255,255,255,.7);padding:20px;border-radius:12px;text-align:center}
+      .metric .label{color:#475569;font-size:14px}
+      .metric .value{font-weight:800;font-size:28px;background:var(--gradient-heading);-webkit-background-clip:text;background-clip:text;color:transparent}
+      .metric .sub{font-size:12px;color:#64748b}
+      .waitlist{border:1px solid rgba(255,255,255,.5);background:rgba(255,255,255,.7);backdrop-filter:blur(20px);border-radius:16px;padding:24px;text-align:center;box-shadow:0 12px 60px -20px rgba(244,114,182,.35)}
+      .waitlist form{display:flex;flex-wrap:wrap;gap:.75rem;justify-content:center;max-width:800px;margin:.75rem auto 0}
+      input[type="email"],input[type="text"]{border:1px solid rgba(226,232,240,.8);background:rgba(255,255,255,.9);padding:.75rem 1rem;border-radius:999px;color:#0f172a;min-width:200px}
+      input::placeholder{color:#94a3b8}
+      .footer{border-top:1px solid rgba(255,255,255,.5);background:rgba(255,255,255,.7);backdrop-filter:blur(16px);padding:24px 0;color:#475569}
+      .footer-wrap{display:flex;flex-direction:column;gap:.75rem;align-items:center;justify-content:space-between}
+      @media (min-width:640px){.footer-wrap{flex-direction:row}}
+
+      /* Background visuals */
+      .bg-root{position:fixed;inset:0;pointer-events:none;z-index:-10;overflow:hidden}
+      .wash{position:absolute;top:-40vmin;left:50%;transform:translateX(-50%);width:90vmax;height:90vmax;border-radius:50%;filter:blur(48px);background:linear-gradient(135deg,var(--rose-50),var(--amber-50),var(--fuchsia-50))}
+      .blob{position:absolute;border-radius:50%;filter:blur(24px);opacity:.7;mix-blend:screen;animation:blob 18s ease-in-out infinite}
+      .blob.delay2{animation-delay:2s}
+      .blob.delay4{animation-delay:4s}
+      .grain{position:absolute;inset:0;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' width='100%' height='100%'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)' opacity='0.02'/></svg>");background-size:cover;background-repeat:no-repeat}
+      @keyframes blob{0%,100%{transform:translate(0,0) scale(1)}33%{transform:translate(20px,-30px) scale(1.05)}66%{transform:translate(-25px,15px) scale(.98)}}
+    </style>
+  </head>
+  <body>
+    <div class="bg-root" aria-hidden>
+      <div class="wash"></div>
+      <div class="blob" style="left:10%;top:20%;width:20rem;height:20rem;background:linear-gradient(135deg,#fecdd3,#ffedd5,#fde68a)"></div>
+      <div class="blob delay2" style="right:12%;top:8%;width:24rem;height:24rem;opacity:.6;background:linear-gradient(135deg,#fbcfe8,#ede9fe,#f5d0fe)"></div>
+      <div class="blob delay4" style="left:20%;bottom:10%;width:28rem;height:28rem;opacity:.5;background:linear-gradient(135deg,#fde68a,#ffedd5,#fecdd3)"></div>
+      <div class="grain"></div>
+    </div>
+
+    <header>
+      <div class="shell nav">
+        <div class="brand"><span class="dot"></span> MoMoney</div>
+        <nav class="links">
+          <a href="#brokerages">For Brokerages</a>
+          <a href="#users">For Users</a>
+          <a href="#how">How it works</a>
+          <a href="#waitlist" class="btn ghost" style="padding:.5rem 1rem">Join Waitlist</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="shell" style="text-align:center;max-width:800px">
+          <span class="pill">Activation platform for retail brokerages</span>
+          <h1 style="margin:16px 0 0">Lower CAC waste. Higher activation. Confident first trades.</h1>
+          <p class="sub">MoMoney adds an interactive onboarding layer that turns curious sign‑ups into confident, retained investors — improving funded‑account rate, first‑deposit size, and long‑term activity.</p>
+          <div class="cta">
+            <a href="#waitlist" class="btn primary">Request early access <span style="margin-left:.25rem">→</span></a>
+            <a href="#how" class="btn ghost">See how it works</a>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-inner">
+            <div class="preview">
+              <div style="display:flex;flex-direction:column;align-items:center">
+                <div style="width:40px;height:40px;border-radius:999px;background:linear-gradient(135deg,#fda4af,#f9a8d4,#fcd34d);margin-bottom:8px"></div>
+                <p style="margin:0;font-size:14px">Onboarding tiles & pre‑trade confidence checks</p>
+                <p style="margin:0;color:#94a3b8;font-size:12px">(swap in product screenshots later)</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="brokerages">
+        <div class="shell grid two" style="gap:24px">
+          <div class="panel">
+            <h3>For Brokerages</h3>
+            <p>Plug‑in activation experiences that meet beginners at the right step: first deposit, first trade, and beyond.</p>
+            <div class="items">
+              <div class="item"><span class="tick">✓</span><div><b>Lower CAC</b> by converting more installs into funded accounts.</div></div>
+              <div class="item"><span class="tick">✓</span><div><b>+Activation</b>: reduce KYC and onboarding drop‑offs.</div></div>
+              <div class="item"><span class="tick">✓</span><div><b>+First trade</b>: remove hesitation with in‑flow guidance.</div></div>
+              <div class="item"><span class="tick">✓</span><div><b>+Retention</b>: habit loops & goal‑based nudges keep users active.</div></div>
+              <div class="item"><span class="tick">✓</span><div>Works alongside your brand — white‑label or co‑brand.</div></div>
+            </div>
+          </div>
+          <div id="users" class="panel">
+            <h3>For Humans (your users)</h3>
+            <p>Clear, friendly walkthroughs that build confidence without jargon — so taking the first step feels safe and simple.</p>
+            <div class="items">
+              <div class="item"><span class="tick">✓</span><div>Understand basics in‑context, not in a textbook.</div></div>
+              <div class="item"><span class="tick">✓</span><div>Make a plan: deposit, diversify, and review risk before placing an order.</div></div>
+              <div class="item"><span class="tick">✓</span><div>Practice flows and get instant feedback.</div></div>
+              <div class="item"><span class="tick">✓</span><div>Own your pace — no accounts connected until you choose to.</div></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <div class="shell grid four" style="gap:16px">
+          <div class="metric"><div class="label">CAC Efficiency</div><div class="value">↓ 25–40%</div><div class="sub">less waste from non‑depositors*</div></div>
+          <div class="metric"><div class="label">Funded accounts</div><div class="value">+15–30%</div><div class="sub">uplift from guided flows*</div></div>
+          <div class="metric"><div class="label">First trade rate</div><div class="value">+20–35%</div><div class="sub">faster time‑to‑first‑trade*</div></div>
+          <div class="metric"><div class="label">Retention</div><div class="value">+10–25%</div><div class="sub">improved 30/90‑day activity*</div></div>
+        </div>
+        <p style="text-align:center;margin:.5rem 0 0;color:#94a3b8;font-size:12px">*Placeholder ranges based on internal tests and industry benchmarks. Your results may vary.</p>
+      </section>
+
+      <section id="how">
+        <div class="shell">
+          <h3 style="text-align:center;font-size:24px;margin:0 0 1rem 0">How it works</h3>
+          <div class="grid two" style="gap:16px">
+            <div class="panel"><div class="tick" style="margin-bottom:.5rem">1</div><div style="font-weight:600">Embed</div><p style="margin:.25rem 0 0 0">Use our SDK to add modular experiences to your app or web — no redesign needed. Works with your auth, analytics, and brand.</p></div>
+            <div class="panel"><div class="tick" style="margin-bottom:.5rem">2</div><div style="font-weight:600">Guide</div><p style="margin:.25rem 0 0 0">Trigger context‑aware tiles during onboarding: explain KYC, nudge deposits, simulate a first order, and remove hesitation.</p></div>
+            <div class="panel"><div class="tick" style="margin-bottom:.5rem">3</div><div style="font-weight:600">Measure</div><p style="margin:.25rem 0 0 0">Track funded‑account rate, first‑trade time, and retained activity with clean attribution — see CAC efficiency move.</p></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="waitlist">
+        <div class="shell">
+          <div class="waitlist">
+            <span class="pill">Early Access</span>
+            <h3 style="margin:.5rem 0 0 0;font-size:24px">Try MoMoney with your onboarding</h3>
+            <p style="max-width:720px;margin:.5rem auto 0;color:#475569">We’re partnering with select brokerages to pilot activation tiles. Join the waitlist — we’ll reach out with integration details.</p>
+            <form id="waitlist-form">
+              <input required type="email" name="email" placeholder="Work email" />
+              <input type="text" name="company" placeholder="Company" />
+              <button type="submit" class="btn primary">Join waitlist</button>
+            </form>
+            <p id="msg" style="margin:.5rem 0 0 0;color:#475569;font-size:14px"></p>
+            <p style="margin:.5rem 0 0 0;color:#94a3b8;font-size:12px">By joining, you agree to our Privacy Policy.</p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="shell footer-wrap">
+        <div class="brand"><span class="dot"></span> MoMoney</div>
+        <div>© <span id="year"></span> MoMoney. All rights reserved.</div>
+      </div>
+    </footer>
+
+    <script>
+      const WAITLIST_ENDPOINT = '#'; // TODO: replace with API endpoint
+      document.getElementById('year').textContent = new Date().getFullYear();
+      const form = document.getElementById('waitlist-form');
+      const msg = document.getElementById('msg');
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        msg.textContent = '';
+        const data = Object.fromEntries(new FormData(form));
+        try {
+          const res = await fetch(WAITLIST_ENDPOINT, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(data)
+          });
+          if (!res.ok) throw new Error('Network error');
+          msg.textContent = 'Added to waitlist ✓';
+          form.reset();
+        } catch (err) {
+          msg.textContent = 'Could not submit. Try again.';
+        }
+      });
+    </script>
+  </body>
+  </html>
+
+
